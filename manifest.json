@@ -1,0 +1,11 @@
+{
+	"manifest_version": 1,
+	"id": "widgetmanager",
+	"name": "Widget manager",
+	"author": "gr8b",
+	"description": "Add support of defining custom widgets in Zabbix 5.0-6.2 dashboard.",
+	"version": "0.1",
+	"namespace": "WidgetManager",
+	"url": "https://github.com/gr8b",
+	"actions": {}
+}
